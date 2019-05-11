@@ -1,0 +1,18 @@
+.card {
+  border-style: outset;
+  border-width: 25px;
+  border-color: #00BEFF;
+}
+
+
+.search-field,
+.search-field:focus {
+  border: none;
+  border-bottom: 1px solid black;
+  border-bottom-style: dashed;
+  text-align: center;
+}
+
+.search-field:focus {
+  box-shadow: none;
+}

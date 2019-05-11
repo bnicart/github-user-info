@@ -1,5 +1,6 @@
 {
   "name": "github-user-info",
+  "homepage": "https://bnicart.github.io/github-user-info",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
